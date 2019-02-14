@@ -1,0 +1,337 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"u",
+				"url()\tbackground"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"bor",
+				"border-top\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"mari",
+				"margin\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"tex",
+				"text-indent\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"text-dec",
+				"text-decoration\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/curso-javascript/codigo/aula153.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/chale-hotel/index.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/chale-hotel/css/estilo.css",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/chale-hotel/estilo.css",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/web-course/index.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/site-noticias-cidade/css/estilo.css",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/site-noticias-cidade/index.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/site-noticias-cidade/nova-legislacao.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/site-noticias-cidade/imagens/tecnologia.jpg",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/web-course/imagens/estilo.css",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-tecblog-css3/index.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-tecblog-css3/css/estilo.css",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-tecblog-css3/jogos.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-tecblog-css3/celulares.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-tecblog-css3/informatica.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-tecblog-css3/eletronicos.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-css3-intermediario/estilo.css",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-css3-intermediario/modelo-caixa.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-css3-intermediario/elementos-flutuantes.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-anna-bella/estilo.css",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-anna-bella/campanhas-publicitarias.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-anna-bella/contato.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-anna-bella/imagens/capa.png",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-anna-bella/imagens/foto2.png",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-anna-bella/imagens/foto3.png",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-css3/estilo.css",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-css3/pagina2.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-css3/pagina1.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-css3/div-span.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-css3/bordas.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-css3/fontes.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-css3/cor-imagem-fundo.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-css3/imagens/amazon-logo.png",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-css3/inline_style.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projeto-css3/classes-ids.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy-Kraken/web-completo-udemy/projetofinalhtml/contato.html",
+		"/C/Users/fes/Documents/Web-Completo-Udemy/Primeiro Projeto/projeto.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "noticias.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

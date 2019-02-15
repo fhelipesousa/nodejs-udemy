@@ -1,6 +1,6 @@
 module.exports = function(application){
     application.get('/formulario_inclusao_noticia', function(req,res){
-        res.render('admin/form_add_noticia');
+        res.render('admin/form_add_noticia', {validacao:{}, noticia:{}});
     });
 
     application.post('/noticias/salvar', function(req,res){
@@ -13,11 +13,10 @@ module.exports = function(application){
         req.assert('data_noticia', 'Data é obrigatório').notEmpty().isDate({format: 'YYYY-MM-DD'});
         req.assert('noticia', 'Notícia é obrigatório').notEmpty();
 
-        var erros = req.getValidationResult();
+        var erros = req.validationErrors();
 
         if(erros){
-			console.log('Não foram preenchidos os campos obrigatorios');
-            res.render('admin/form_add_noticia');
+            res.render('admin/form_add_noticia', {validacao : erros, noticia : noticia});
             return;
         }
 
